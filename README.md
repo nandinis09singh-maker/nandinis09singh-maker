@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nandini Singh 👋</h1>
 
 <p align="center">
-  <b>SDE with a data science background, building software that's both solid and smart.</b>
+  <b>A student focusing on data science, building software that's both solid and smart.</b>
 </p>
 
 <p align="center">
